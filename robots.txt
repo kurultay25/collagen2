@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://complex-design-283521.framer.app/sitemap.xml
